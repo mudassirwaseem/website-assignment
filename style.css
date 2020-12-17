@@ -1,0 +1,274 @@
+@font-face{
+    font-family: "Rajdhani";
+    src: url('Rajdhani-Medium.ttf');
+}
+*{
+    font-family: "Rajdhani";
+
+}
+.a{
+    width: 400px;
+    margin: 20PX;
+}
+
+@media only screen and (max-width: 600px){
+.a {
+    width: 250px;
+}    
+}
+@media only screen and (max-width: 500px){
+    .a {
+        width: 200px;
+    }    
+    }
+@media only screen and (max-width: 400px){
+     .a{
+        width: 170px;
+    }    
+    }
+    @media only screen and (max-width: 300px){
+        .a{
+           width: 120px;
+       }    
+       }
+        
+        
+#carouselExampleIndicators{
+    margin-top: 20px;
+}
+
+.b{
+    text-align: center;
+    font-weight: bolder ;
+    font-size: 62px;
+    margin-top: 40px;
+border: 1px solid;
+text-decoration: underline;
+background-color: gray;
+color: white;
+
+}
+
+.c{
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline #A0522D;
+    color: #A0522D;
+    margin: 20px;
+    font-weight: bolder ;
+    text-shadow: 2px 2px 3px #C0C0C0;
+    padding: 40px;
+
+}
+.CATEGORIES{
+margin-top: 30px;
+
+}
+.card{
+    height: auto;
+    width: 250px;
+    margin-bottom: 50px;
+}
+.navbar {
+    background-color: #A0522D !important;
+    font-family: "Rajdhani";
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.navbar li a:hover{
+background-color:  white ;
+border-radius: 10px  ;
+transition: 0.s;
+border: 1px solid;
+color: #A0522D !important;
+
+    }
+.x{
+    padding: 10px;
+    margin: 10px;
+    opacity: 90%;
+}
+}
+.CATEGORIES2{
+    margin-top: 30px;
+}
+.d{
+    text-align: center;
+    margin: 70px;
+    font-family: cursive;
+    text-decoration: underline #A0522D;
+    color: #A0522D;
+
+    font-weight: bolder ;
+    text-shadow: 2px 2px 3px #C0C0C0;
+    margin-top: 10px;
+}
+.e{
+    text-align: center;
+    margin: 70px;
+    font-family: cursive;
+    font-weight: bolder ;
+    text-decoration: underline #A0522D;
+    color: #A0522D;
+
+    text-shadow: 2px 2px 3px #C0C0C0;
+    margin-top: 10px;
+
+}
+.btn{
+    background-color: #A0522D !important;
+    color: white !important;
+    width: 100%;
+    padding: 10px !important;
+    
+}
+
+.f{
+    background-color: #111109;
+    height: 300px;
+    width: 100%;
+    color: white;
+    margin: 20px;
+    padding: 60px;
+    
+
+}
+marquee{
+    border-radius: 10px;
+    text-align: center;
+    background-color: #A0522D;
+    width: 100%;
+    color: white;
+    margin-top: 30px;
+    height: 30px;
+    font-weight: 500;
+    font-size: 22px;
+    
+}
+
+
+.image1{
+    width: 90%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 300px){
+    .image1 {
+        height: 100px;
+    }    
+    }
+
+
+
+
+.t{
+    background-color: blue;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+
+.container1{
+    background-color: #A0522D ;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.footer-copyright{
+    background-color: #A0522D;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.q{
+    width: 95%;
+    justify-content: center;
+    margin: 15px;
+    font-weight: bolder ;
+    background-color:  #DEB887;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.b{
+    text-align: center;
+    font-family: "Rajdhani";
+
+}
+.t{
+    background-color: white !important;
+    color: black;
+    font-size: 52px;
+    text-decoration: underline;
+    
+}
+.btn2{
+    height: 40px;
+    width: 170px;
+    color: white !important;
+    background-color: white;
+    border-radius: 20px !important;
+}
+.aq{
+    border: none;
+    height: 2px;
+    background-color: #DEB887;
+    border-radius: 20px;
+}
+.card{
+    border: 1px solid;
+    text-align: center;
+}
+
+
+p a {
+    color: white !important;
+}
+
+/* @media only screen and (max-width: 300px){
+    marquee{
+       width: 100%;
+       border-radius: 10px;
+       text-align: center;
+       background-color: #A0522D;
+       color: white;
+       margin-top: 30px;
+       height: 30px;
+       margin-left: 40px;
+       font-weight: 500;
+       font-size: 22px;
+   }    
+   } */
+
+
+
+
+
+
+
+
+
+   
+   @media only screen and (max-width: 300px){
+    .card{
+       width: 100%;
+   }    
+   }
+   @media only screen and (max-width: 400px){
+    .card{
+       width: 100%;
+   }    
+   }
+ 
